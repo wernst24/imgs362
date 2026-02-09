@@ -1,10 +1,9 @@
-name: mlia
+name: mlia-tf
 channels:
-  - defaults
-  - conda-forge
+ - defaults
 dependencies:
-  - python=3.12
-  - tensorflow
-  - jupyter
-  - ipykernel
-  - matplotlib
+ - python=3.12
+ - tensorflow
+ - jupyter
+ - ipykernel
+ - matplotlib
